@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rale204mo/Wings-Cafe.git/static/css/main.9d7ee687.css",
+    "main.js": "/Rale204mo/Wings-Cafe.git/static/js/main.38624dec.js",
+    "index.html": "/Rale204mo/Wings-Cafe.git/index.html",
+    "main.9d7ee687.css.map": "/Rale204mo/Wings-Cafe.git/static/css/main.9d7ee687.css.map",
+    "main.38624dec.js.map": "/Rale204mo/Wings-Cafe.git/static/js/main.38624dec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7ee687.css",
+    "static/js/main.38624dec.js"
+  ]
+}
