@@ -41,6 +41,12 @@
       "name": "Motsamai Ralejoe",
       "description": "faggag",
       "price": 4
+    },
+    {
+      "id": 1757850606004,
+      "name": "Motsamai Ralejoe",
+      "description": "faggag",
+      "price": 7
     }
   ],
   "customers": [
@@ -66,6 +72,12 @@
       "id": 1757772441878,
       "name": "Katleho",
       "email": "motsamairalejoe@gmail.com",
+      "phone": "63789201"
+    },
+    {
+      "id": 1757850805960,
+      "name": "hhk",
+      "email": "jhvo@fgh",
       "phone": "63789201"
     }
   ],
@@ -136,7 +148,7 @@
     {
       "id": 2,
       "productId": 2,
-      "quantity": 5
+      "quantity": 8
     },
     {
       "id": 1757756044717,
@@ -166,7 +178,7 @@
     {
       "id": 1757843392313,
       "productId": 2,
-      "quantity": 3
+      "quantity": 6
     }
   ]
 }
