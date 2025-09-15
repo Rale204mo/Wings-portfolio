@@ -10,7 +10,7 @@
       "id": 2,
       "name": "FULL CHICKEN",
       "description": "FRIDAY MEAL",
-      "price": 79
+      "price": 799
     },
     {
       "id": 3,
@@ -23,12 +23,6 @@
       "name": "Beef Burger",
       "description": "Juicy beef patty with cheese, lettuce, and tomato",
       "price": 45
-    },
-    {
-      "id": 1757763542178,
-      "name": "Motsamai Ralejoe",
-      "description": "faggag",
-      "price": 2
     },
     {
       "id": 1757771122442,
@@ -148,7 +142,7 @@
     {
       "id": 2,
       "productId": 2,
-      "quantity": 8
+      "quantity": 10
     },
     {
       "id": 1757756044717,
